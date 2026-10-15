@@ -42,7 +42,7 @@ export function Databases() {
             A Vertra cuida do resto.
           </h2>
           <p className="max-w-[52ch] text-base leading-relaxed text-muted">
-            Escolha o motor e a RAM — credenciais prontas na hora, snapshots e backups automáticos, e métricas no mesmo dashboard dos seus apps.
+            Escolha o motor e a RAM - credenciais prontas na hora, snapshots e backups automáticos, e métricas no mesmo dashboard dos seus apps.
           </p>
         </div>
 

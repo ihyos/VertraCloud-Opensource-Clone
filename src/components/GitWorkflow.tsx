@@ -32,7 +32,7 @@ export function GitWorkflow() {
             </span>
             <h3 className="mt-2 text-lg font-semibold tracking-tight text-ink">Push</h3>
             <p className="max-w-[30ch] text-sm leading-relaxed text-muted">
-              Git, upload direto ou ZIP — cada push dispara um redeploy limpo via webhook.
+              Git, upload direto ou ZIP - cada push dispara um redeploy limpo via webhook.
             </p>
           </div>
 
@@ -72,7 +72,7 @@ export function GitWorkflow() {
               Deploys conectados ao Git
             </h2>
             <p className="max-w-[44ch] text-base leading-relaxed text-muted">
-              Conecte o repositório uma vez. Cada push dispara um redeploy limpo, sem travar seu fluxo — do localhost ao https em segundos.
+              Conecte o repositório uma vez. Cada push dispara um redeploy limpo, sem travar seu fluxo - do localhost ao https em segundos.
             </p>
             <ul className="flex flex-col gap-2.5">
               <li className="flex items-center gap-2.5 text-sm text-ink-2">

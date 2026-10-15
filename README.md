@@ -1,4 +1,4 @@
-# VertraCloud — Open-Source UI Clone
+# VertraCloud - Open-Source UI Clone
 
 <div align="center">
 
@@ -50,10 +50,10 @@ Abaixo está o detalhamento técnico e conceitual de cada seção da aplicação
 - **Composição Visual**: Integração da arte em perspectiva do pilar central (`/artifacts/pillar.webp`) com máscara gradiente vertical.
 - **Divisor Geométrico (`.vc-hero-divider`)**: Divisor horizontal com marcadores em formato de diamante em 45 graus.
 - **Grade de Métricas (`.vc-stats`)**: Exibição dos 4 pilares de desempenho da infraestrutura:
-  - `4.2s` — Tempo de build com cache inteligente
-  - `2.8s` — Deploy rápido na região principal (nyc1)
-  - `99,99%` — SLA de disponibilidade garantido
-  - `R$ 1,99` — Ponto de entrada acessível por mês
+  - `4.2s` - Tempo de build com cache inteligente
+  - `2.8s` - Deploy rápido na região principal (nyc1)
+  - `99,99%` - SLA de disponibilidade garantido
+  - `R$ 1,99` - Ponto de entrada acessível por mês
 
 ### 3. Fluxo Git / Deploy em 3 Passos (`src/components/GitWorkflow.tsx`)
 - **Estágios 01, 02 e 03**: Guia passo a passo ilustrando *Push*, *Build* e *Live*.

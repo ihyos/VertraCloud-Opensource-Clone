@@ -8,7 +8,7 @@ const FAQS = [
   },
   {
     q: "Que tipos de projetos posso hospedar?",
-    a: "APIs, sites, workers e bots de Discord, WhatsApp e Telegram em JavaScript, Python, Go, PHP, Bun e mais — além de bancos Redis, MongoDB, MySQL e PostgreSQL gerenciados.",
+    a: "APIs, sites, workers e bots de Discord, WhatsApp e Telegram em JavaScript, Python, Go, PHP, Bun e mais - além de bancos Redis, MongoDB, MySQL e PostgreSQL gerenciados.",
   },
   {
     q: "Preciso configurar VPS ou Docker manualmente?",
@@ -20,7 +20,7 @@ const FAQS = [
   },
   {
     q: "Como funcionam os preços?",
-    a: "Planos mensais a partir de R$1,99, com desconto de até 15% no ciclo anual. Cada plano tem RAM, vCPU e limite de API fixos — o valor não varia com o uso.",
+    a: "Planos mensais a partir de R$1,99, com desconto de até 15% no ciclo anual. Cada plano tem RAM, vCPU e limite de API fixos - o valor não varia com o uso.",
   },
   {
     q: "Como posso obter suporte?",

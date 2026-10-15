@@ -15,7 +15,7 @@ export function GlobalInfra() {
               Perto de onde seus usuários estão
             </h2>
             <p className="text-pretty text-base leading-relaxed text-muted max-w-2xl">
-              Sua aplicação sobe em nyc1 e responde ao mundo com rotas otimizadas — do Brasil à Ásia, sem você configurar rede.
+              Sua aplicação sobe em nyc1 e responde ao mundo com rotas otimizadas - do Brasil à Ásia, sem você configurar rede.
             </p>
           </div>
         </div>

@@ -56,7 +56,7 @@ export function LiveObservability() {
               Veja cada deploy acontecer
             </h2>
             <p className="text-base leading-relaxed text-muted">
-              Logs em tempo real, métricas de CPU e RAM e eventos de cada build — tudo ao vivo no dashboard, sem ferramenta externa.
+              Logs em tempo real, métricas de CPU e RAM e eventos de cada build - tudo ao vivo no dashboard, sem ferramenta externa.
             </p>
             <ul className="flex flex-col gap-2.5">
               <li className="flex items-start gap-2.5 text-sm text-ink-2">
